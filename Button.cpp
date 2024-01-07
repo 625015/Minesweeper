@@ -1,6 +1,4 @@
 // Liam Ballard
-// COP3504
-// Project 4
 
 #include "Button.h"
 
